@@ -1,0 +1,18 @@
+{
+  "name": "brandon-jeff",
+  "version": "1.0.0",
+  "description": "07-node-npm",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhold6160/07-node-npm/tree/brandon-jeff"
+  },
+  "author": "brandon-jeff",
+  "license": "MIT"
+}
