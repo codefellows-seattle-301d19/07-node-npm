@@ -1,0 +1,28 @@
+{
+  "name": "lynn",
+  "version": "1.0.0",
+  "description": "class 07 lab work",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-seattle-301d19/07-node-npm.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "lynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefellows-seattle-301d19/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/codefellows-seattle-301d19/07-node-npm#readme"
+}
