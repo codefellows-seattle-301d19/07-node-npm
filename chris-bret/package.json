@@ -1,0 +1,16 @@
+{
+  "name": "chris-bret",
+  "version": "0.0.1",
+  "description": "Lab 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janousek77/07-node-npm/invitations"
+  },
+  "author": "Chris and Bret",
+  "license": "MIT"
+}
