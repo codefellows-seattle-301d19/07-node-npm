@@ -2,7 +2,7 @@
   "name": "07lab",
   "version": "1.0.0",
   "description": "07-node-npm",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.15.2",
     "nodemon": "^1.11.0"
