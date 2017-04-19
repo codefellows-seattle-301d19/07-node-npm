@@ -1,0 +1,24 @@
+{
+  "name": "07lab",
+  "version": "1.0.0",
+  "description": "07-node-npm",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woojgh/07-node-npm.git"
+  },
+  "author": "Sean Reigle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Woojgh/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/Woojgh/07-node-npm#readme"
+}
