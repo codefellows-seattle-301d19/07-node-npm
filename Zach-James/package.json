@@ -1,0 +1,16 @@
+{
+  "name": "zach-james",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "depencies": {
+      "express": "^4.15.2",
+      "body-parser": "^1.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zach-james",
+  "license": "MIT"
+}
