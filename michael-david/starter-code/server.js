@@ -13,7 +13,7 @@ const app = express();
 
 // Be sure to install that and save it as a dependency after you create your package.json.
 
-const bodyParser = require('body-parser').urlencoded();
+const bodyParser = require('body-parser').urlencoded({extended: true});
 const PORT = process.env.PORT || 3000;
 
 // TODO: Include all of the static resources as an argument to app.use()

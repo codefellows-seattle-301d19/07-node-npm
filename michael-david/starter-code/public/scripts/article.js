@@ -39,6 +39,7 @@ Article.fetchAll = function() {
     $.getJSON('/data/hackerIpsum.json')
     .then(function(rawData) {
       Article.loadAll(rawData);
+      console.log(rawData);
       localStorage.rawData = JSON.stringify(rawData);
       articleView.initIndexPage();
     }, function(err) {
