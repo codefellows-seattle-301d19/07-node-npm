@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "James Sean",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "body-parser": "^1.15.2"
+  }
 }
